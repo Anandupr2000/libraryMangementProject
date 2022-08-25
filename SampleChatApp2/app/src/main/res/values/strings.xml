@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Siksha</string>
+    <string name="search_title">search</string>
+    <string name="settings_title">Settings</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="label_register">Login</string>
+    <string name="welcome_to_library">Welcome to library</string>
+</resources>

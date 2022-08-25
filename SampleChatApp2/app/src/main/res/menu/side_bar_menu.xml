@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <!--        so that one item can only be clicked    -->
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="home" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_account_round"
+            android:title="Profile" />
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="Your Queue"
+            android:iconTint="@color/black">
+            <menu>
+
+                <item
+                    android:id="@+id/fav"
+                    android:icon="@drawable/ic_favorite_selected"
+                    android:title="Requested book" />
+                <item
+                    android:id="@+id/userCreatedBookLists"
+                    android:icon="@drawable/ic_baseline_list_24"
+                    android:title="Your Book Lists" />
+
+
+            </menu>
+        </item>
+    </group>
+    <group>
+
+        <item android:title="Communicate"
+            android:iconTint="@color/black">
+            <menu>
+                <item android:title="share"
+                    android:id="@+id/sideNav_item1"
+                    android:icon="@drawable/ic_share"/>
+                <item android:title="about"
+                    android:id="@+id/sideNav_item2"
+                    android:icon="@drawable/ic_help"/>
+            </menu>
+        </item>
+
+        <item android:title="logout"
+            android:id="@+id/logoutBtn"
+            android:icon="@drawable/ic_logout"
+            app:iconTint="@color/black"/>
+
+    </group>
+
+</menu>
