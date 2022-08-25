@@ -1,0 +1,189 @@
+com/example/samplechatapp/Models/user.java
+ com.example.samplechatapp.Models.user
+com/example/samplechatapp/Models/utils.java
+ com.example.samplechatapp.Models.utils
+com/example/samplechatapp/Models/Message.java
+ com.example.samplechatapp.Models.Message
+com/example/samplechatapp/Activities/Login.java
+ com.example.samplechatapp.Activities.Login
+ com.example.samplechatapp.Activities.Login$1
+ com.example.samplechatapp.Activities.Login$2
+ com.example.samplechatapp.Activities.Login$3
+ com.example.samplechatapp.Activities.Login$4
+ com.example.samplechatapp.Activities.Login$4$1
+ com.example.samplechatapp.Activities.Login$4$1$1
+ com.example.samplechatapp.Activities.Login$4$1$2
+ com.example.samplechatapp.Activities.Login$4$1$2$1
+com/example/samplechatapp/databinding/ActivityLoginBinding.java
+ com.example.samplechatapp.databinding.ActivityLoginBinding
+com/example/samplechatapp/databinding/CustomListBinding.java
+ com.example.samplechatapp.databinding.CustomListBinding
+com/example/samplechatapp/databinding/BookShortLayoutBinding.java
+ com.example.samplechatapp.databinding.BookShortLayoutBinding
+com/example/samplechatapp/Activities/specificList.java
+ com.example.samplechatapp.Activities.specificList
+ com.example.samplechatapp.Activities.specificList$1
+com/example/samplechatapp/Activities/MainActivity.java
+ com.example.samplechatapp.Activities.MainActivity
+ com.example.samplechatapp.Activities.MainActivity$1
+ com.example.samplechatapp.Activities.MainActivity$2
+ com.example.samplechatapp.Activities.MainActivity$3
+com/example/samplechatapp/databinding/ActivityListviewBinding.java
+ com.example.samplechatapp.databinding.ActivityListviewBinding
+com/example/samplechatapp/databinding/ActivityMainBinding.java
+ com.example.samplechatapp.databinding.ActivityMainBinding
+com/example/samplechatapp/databinding/ActivitySpecificListBinding.java
+ com.example.samplechatapp.databinding.ActivitySpecificListBinding
+com/example/samplechatapp/Adapters/customListAdapter.java
+ com.example.samplechatapp.Adapters.customListAdapter
+ com.example.samplechatapp.Adapters.customListAdapter$1
+ com.example.samplechatapp.Adapters.customListAdapter$2
+ com.example.samplechatapp.Adapters.customListAdapter$customListHolder
+com/example/samplechatapp/Models/alllists.java
+ com.example.samplechatapp.Models.alllists
+com/example/samplechatapp/Models/Book.java
+ com.example.samplechatapp.Models.Book
+com/example/samplechatapp/Activities/pdfview.java
+ com.example.samplechatapp.Activities.pdfview
+ com.example.samplechatapp.Activities.pdfview$RetrivePDFfromUrl
+com/example/samplechatapp/Activities/Fragments/favouritefragment.java
+ com.example.samplechatapp.Activities.Fragments.favouritefragment
+ com.example.samplechatapp.Activities.Fragments.favouritefragment$1
+com/example/samplechatapp/databinding/ReceiverLayoutBinding.java
+ com.example.samplechatapp.databinding.ReceiverLayoutBinding
+com/example/samplechatapp/databinding/NavHeaderBinding.java
+ com.example.samplechatapp.databinding.NavHeaderBinding
+com/example/samplechatapp/databinding/ActivityUserLoginBinding.java
+ com.example.samplechatapp.databinding.ActivityUserLoginBinding
+com/example/samplechatapp/Activities/RegisterActivity.java
+ com.example.samplechatapp.Activities.RegisterActivity
+ com.example.samplechatapp.Activities.RegisterActivity$1
+ com.example.samplechatapp.Activities.RegisterActivity$2
+ com.example.samplechatapp.Activities.RegisterActivity$3
+ com.example.samplechatapp.Activities.RegisterActivity$4
+ com.example.samplechatapp.Activities.RegisterActivity$5
+ com.example.samplechatapp.Activities.RegisterActivity$6
+ com.example.samplechatapp.Activities.RegisterActivity$6$1
+ com.example.samplechatapp.Activities.RegisterActivity$6$2
+com/example/samplechatapp/Activities/Fragments/homefragment.java
+ com.example.samplechatapp.Activities.Fragments.homefragment
+ com.example.samplechatapp.Activities.Fragments.homefragment$1
+ com.example.samplechatapp.Activities.Fragments.homefragment$2
+com/example/samplechatapp/Activities/Fragments/chatfragment.java
+ com.example.samplechatapp.Activities.Fragments.chatfragment
+ com.example.samplechatapp.Activities.Fragments.chatfragment$1
+ com.example.samplechatapp.Activities.Fragments.chatfragment$1$1
+com/example/samplechatapp/databinding/FragmentChatfragmentBinding.java
+ com.example.samplechatapp.databinding.FragmentChatfragmentBinding
+com/example/samplechatapp/databinding/DemoLayoutBinding.java
+ com.example.samplechatapp.databinding.DemoLayoutBinding
+com/example/samplechatapp/databinding/ActivityPdfviewBinding.java
+ com.example.samplechatapp.databinding.ActivityPdfviewBinding
+com/example/samplechatapp/Adapters/MessageAdapter.java
+ com.example.samplechatapp.Adapters.MessageAdapter
+ com.example.samplechatapp.Adapters.MessageAdapter$ReceiveViewHolder
+ com.example.samplechatapp.Adapters.MessageAdapter$SentViewHolder
+com/example/samplechatapp/Activities/user_login.java
+ com.example.samplechatapp.Activities.user_login
+ com.example.samplechatapp.Activities.user_login$1
+com/example/samplechatapp/Adapters/userAdapter.java
+ com.example.samplechatapp.Adapters.userAdapter
+ com.example.samplechatapp.Adapters.userAdapter$1
+ com.example.samplechatapp.Adapters.userAdapter$2
+ com.example.samplechatapp.Adapters.userAdapter$userViewHolder
+com/example/samplechatapp/Activities/bookList.java
+ com.example.samplechatapp.Activities.bookList
+ com.example.samplechatapp.Activities.bookList$1
+ com.example.samplechatapp.Activities.bookList$2
+ com.example.samplechatapp.Activities.bookList$3
+com/example/samplechatapp/Adapters/BookRecycleViewAdapter.java
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$2
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$2$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$2$1$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$2$1$1$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$2$1$2
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$3
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$3$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$3$2
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$4
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$4$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$4$1$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$4$1$2
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$4$2
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$5
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$5$1
+ com.example.samplechatapp.Adapters.BookRecycleViewAdapter$BookCategoryRecycleViewHolder
+com/example/samplechatapp/databinding/ActivityOTPactivityBinding.java
+ com.example.samplechatapp.databinding.ActivityOTPactivityBinding
+com/example/samplechatapp/Activities/listview.java
+ com.example.samplechatapp.Activities.listview
+com/example/samplechatapp/Activities/OTPactivity.java
+ com.example.samplechatapp.Activities.OTPactivity
+ com.example.samplechatapp.Activities.OTPactivity$1
+ com.example.samplechatapp.Activities.OTPactivity$2
+ com.example.samplechatapp.Activities.OTPactivity$2$1
+com/example/samplechatapp/databinding/ActivityRegisterWthPhnNoBinding.java
+ com.example.samplechatapp.databinding.ActivityRegisterWthPhnNoBinding
+com/example/samplechatapp/databinding/ActivityRegisterBinding.java
+ com.example.samplechatapp.databinding.ActivityRegisterBinding
+com/example/samplechatapp/Activities/registerWthPhnNo.java
+ com.example.samplechatapp.Activities.registerWthPhnNo
+ com.example.samplechatapp.Activities.registerWthPhnNo$1
+ com.example.samplechatapp.Activities.registerWthPhnNo$2
+ com.example.samplechatapp.Activities.registerWthPhnNo$3
+ com.example.samplechatapp.Activities.registerWthPhnNo$3$1
+ com.example.samplechatapp.Activities.registerWthPhnNo$3$2
+ com.example.samplechatapp.Activities.registerWthPhnNo$4
+ com.example.samplechatapp.Activities.registerWthPhnNo$4$1
+ com.example.samplechatapp.Activities.registerWthPhnNo$4$1$1
+com/example/samplechatapp/Models/list.java
+ com.example.samplechatapp.Models.list
+com/example/samplechatapp/databinding/UserpromptBinding.java
+ com.example.samplechatapp.databinding.UserpromptBinding
+com/example/samplechatapp/databinding/ActivityProfileBinding.java
+ com.example.samplechatapp.databinding.ActivityProfileBinding
+com/example/samplechatapp/databinding/PdfviewBinding.java
+ com.example.samplechatapp.databinding.PdfviewBinding
+com/example/samplechatapp/databinding/PopuplistBinding.java
+ com.example.samplechatapp.databinding.PopuplistBinding
+com/example/samplechatapp/databinding/ActivityBookListBinding.java
+ com.example.samplechatapp.databinding.ActivityBookListBinding
+com/example/samplechatapp/databinding/RawConversationBinding.java
+ com.example.samplechatapp.databinding.RawConversationBinding
+com/example/samplechatapp/Activities/profileform.java
+ com.example.samplechatapp.Activities.profileform
+ com.example.samplechatapp.Activities.profileform$1
+ com.example.samplechatapp.Activities.profileform$2
+ com.example.samplechatapp.Activities.profileform$3
+ com.example.samplechatapp.Activities.profileform$4
+ com.example.samplechatapp.Activities.profileform$5
+ com.example.samplechatapp.Activities.profileform$5$1
+ com.example.samplechatapp.Activities.profileform$5$2
+ com.example.samplechatapp.Activities.profileform$6
+ com.example.samplechatapp.Activities.profileform$6$1
+ com.example.samplechatapp.Activities.profileform$6$1$1
+ com.example.samplechatapp.Activities.profileform$6$1$1$1
+ com.example.samplechatapp.Activities.profileform$6$1$1$2
+com/example/samplechatapp/databinding/SenderLayoutBinding.java
+ com.example.samplechatapp.databinding.SenderLayoutBinding
+com/example/samplechatapp/Activities/chatactivity.java
+ com.example.samplechatapp.Activities.chatactivity
+ com.example.samplechatapp.Activities.chatactivity$1
+ com.example.samplechatapp.Activities.chatactivity$2
+ com.example.samplechatapp.Activities.chatactivity$2$1
+ com.example.samplechatapp.Activities.chatactivity$2$1$1
+com/example/samplechatapp/databinding/ActivityChatactivityBinding.java
+ com.example.samplechatapp.databinding.ActivityChatactivityBinding
+com/example/samplechatapp/Models/request.java
+ com.example.samplechatapp.Models.request
+com/example/samplechatapp/databinding/FragmentHomefragmentBinding.java
+ com.example.samplechatapp.databinding.FragmentHomefragmentBinding
+com/example/samplechatapp/Models/credentials.java
+ com.example.samplechatapp.Models.credentials
+ com.example.samplechatapp.Models.credentials$1
+com/example/samplechatapp/databinding/FragmentFavouritefragmentBinding.java
+ com.example.samplechatapp.databinding.FragmentFavouritefragmentBinding
+com/example/samplechatapp/BuildConfig.java
+ com.example.samplechatapp.BuildConfig

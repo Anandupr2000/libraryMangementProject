@@ -1,0 +1,1426 @@
+[
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_avatar_account_dummy_profilepic.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\avatar_account_dummy_profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edit_text_outline_rounded.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\custom_edit_text_outline_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email_focused.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pass_show.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pass_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pass_show.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pass_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_attach_file_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_attach_file_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_italic.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\font\\roboto_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings_focused.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_block_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_block_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_custom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_custom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_class.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_mail_icon.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\custom_mail_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_send_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_cross_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_cross_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_custom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_custom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_avatar_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_library_logo.jpg.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\library_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_login.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pass_show_focused.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pass_show_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avatar_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\avatar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dummy_book.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dummy_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_avatar_account_dummy_profilepic.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\avatar_account_dummy_profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_fav.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\custom_fav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_cross_circle_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_cross_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_help.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_photoadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\photoadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_userprompt.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\userprompt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_photoadd_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\photoadd_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_class.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_menu.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\menu\\top_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_imageadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\imageadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_photoadd_round.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\photoadd_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_layout.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\demo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_list_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pass_hide_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pass_hide_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_help.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_avatar_background.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\avatar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_send_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_smiley_love_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\smiley_love_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_send_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_avatar_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_smiley_love_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\smiley_love_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pass_hide_focused.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pass_hide_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chat.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smiley_smile_with_heart.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\smiley_smile_with_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pass_show_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pass_show_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pass_hide_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pass_hide_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_cutom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cutom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pass_show.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pass_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_image.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\background_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_image_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_image_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pass_show_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pass_show_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_receiver_layout.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\receiver_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_selected.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pass_hide.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pass_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pass_hide.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pass_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_account_round.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_chevron_right_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_chevron_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_attach_file_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_attach_file_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_chevron_right_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_chevron_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_imageadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\imageadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_imageadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\imageadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_photoadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\photoadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_image_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_image_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_avatar_account_dummy_profilepic.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\avatar_account_dummy_profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_help.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_receiver_layout_shape.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\receiver_layout_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_border_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chatactivity.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_chatactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_sender_layout.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\sender_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_class.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pass_hide.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pass_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_list.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_book_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_book_short_layout.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\book_short_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_border_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snd_btn_background.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\snd_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_avatar_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\avatar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_photoadd_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\photoadd_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_avatar_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_block_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_block_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_send_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_smiley_love_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\smiley_love_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pass_show.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pass_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_attach_file_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_attach_file_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_selected.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_avatar_round.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\avatar_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_smiley_love_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\smiley_love_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pass_show_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pass_show_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_smiley_love_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\smiley_love_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_photoadd_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\photoadd_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_dummy_pic.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\dummy_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_photoadd_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\photoadd_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_smiley_love.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\smiley_love.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_class.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_homefragment.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\fragment_homefragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_avatar_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_avatar_account_dummy_profilepic.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\avatar_account_dummy_profilepic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_cross_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_cross_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_selected.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_attach_file_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_attach_file_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_smiley_love.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\smiley_love.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_smiley_love_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\smiley_love_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dummy_book.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dummy_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_image_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_image_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_avatar_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_smiley_love_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\smiley_love_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pass_hide_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pass_hide_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dummy_book.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dummy_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pass_show.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pass_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_cutom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_cutom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_chevron_right_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_chevron_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_smiley_love_round.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\smiley_love_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pdfview.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_pdfview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_smiley_love_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\smiley_love_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_selected.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_attach_file_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_attach_file_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_image_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_image_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_avatar_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dummy_book.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dummy_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_border_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_avatar_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_chevron_right_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_chevron_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_block_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_block_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_custom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\ic_custom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pass_show_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pass_show_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_chevron_right_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_chevron_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_imageadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\imageadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_block_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_block_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_photoadd_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\photoadd_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_border_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_attach_file_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_attach_file_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_custom_setting.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\ic_custom_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_cross_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_cross_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pass_show.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pass_show.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o_t_pactivity.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_o_t_pactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_chevron_right_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_chevron_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_avatar_account_dummy_profilepic.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\avatar_account_dummy_profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_selected.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_cross_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_cross_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pass_hide_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pass_hide_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_pdfview.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\pdfview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favouritefragment.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\fragment_favouritefragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_avatar_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\avatar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pass_hide.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pass_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_class.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_send_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_block_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_block_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_smiley_love.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\smiley_love.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\menu_side_bar_menu.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\menu\\side_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_smiley_love_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\smiley_love_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_cross_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_cross_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sender_layout_shape.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\sender_layout_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pass_hide.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pass_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_photoadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\photoadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_avatar_account_dummy_profilepic.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\avatar_account_dummy_profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_wth_phn_no.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_register_wth_phn_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_raw_conversation.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\raw_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_smiley_love.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\smiley_love.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_avatar_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\avatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_avatar_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\avatar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_focused.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_custom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\ic_custom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_block_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_block_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_photoadd_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\photoadd_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_avatar_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\avatar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_help.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_avatar_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\avatar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_block_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_block_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_smiley_love_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\smiley_love_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_smiley_love.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\smiley_love.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_specific_list.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_specific_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_send_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_image_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_image_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_class.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_class.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_custom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_custom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_photoadd_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\photoadd_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_avatar_account_dummy_profilepic.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\avatar_account_dummy_profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_help.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_photoadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\photoadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_chevron_right_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_chevron_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\color_bottom_navigation_selector.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\color\\bottom_navigation_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_custom_search.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\ic_custom_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_selected.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pass_hide.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pass_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_avatar_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\avatar_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_photoadd_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\photoadd_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_account_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pass_show.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pass_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dummy_book.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dummy_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_cutom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cutom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_imageadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\imageadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_border_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chatfragment.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\fragment_chatfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_photoadd.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\photoadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_image_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_image_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pass_show_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pass_show_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_cutom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\ic_cutom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_selected.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_photoadd.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\photoadd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_class.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_list.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\custom_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_cross_circle_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_cross_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pass_hide_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pass_hide_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dummy_book.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dummy_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pass_hide.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pass_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_border_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_photoadd_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\photoadd_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_attach_file_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_attach_file_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_smiley_love.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\smiley_love.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_background_image.jpg.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\background_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_account_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_help.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listview.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_account_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pass_show_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pass_show_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_cutom_library_launcher.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-mdpi\\ic_cutom_library_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_photoadd_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\photoadd_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_24.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_background.jpg.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\drawable\\header_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pass_hide_focused.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pass_hide_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout_popuplist.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\popuplist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dummy_book.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dummy_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_avatar_round.png.flat",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\mipmap-hdpi\\avatar_round.png"
+    }
+]

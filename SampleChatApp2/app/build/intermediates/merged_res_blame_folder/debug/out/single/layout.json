@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_listview.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register_wth_phn_no.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_register_wth_phn_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sender_layout.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\sender_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\demo_layout.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\demo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_o_t_pactivity.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_o_t_pactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_book_list.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_book_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\book_short_layout.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\book_short_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_specific_list.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_specific_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popuplist.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\popuplist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_login.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\userprompt.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\userprompt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favouritefragment.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\fragment_favouritefragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\receiver_layout.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\receiver_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_homefragment.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\fragment_homefragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pdfview.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_pdfview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_list.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\custom_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chatactivity.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_chatactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pdfview.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\pdfview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chatfragment.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\fragment_chatfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\raw_conversation.xml",
+        "source": "C:\\Users\\Ananthu\\AndroidStudioProjects\\SampleChatApp2\\app\\src\\main\\res\\layout\\raw_conversation.xml"
+    }
+]
