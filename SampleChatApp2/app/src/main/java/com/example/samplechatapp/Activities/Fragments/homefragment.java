@@ -116,7 +116,7 @@ public class homefragment extends Fragment {
 
         categoryArrayList = new ArrayList<>();
 
-        System.out.println("booksArrayList : "+ categoryArrayList);
+//        System.out.println("booksArrayList : "+ categoryArrayList);
 //        Book book;
 
 //        for(int i=1;i<=10;i++) {
@@ -133,9 +133,12 @@ public class homefragment extends Fragment {
         progressDialog.setMessage("Loading category..");
         progressDialog.setCancelable(false);
         progressDialog.show();
+        System.out.println("Database is : ");
+        System.out.println(FirebaseDatabase.getInstance().getReference().child("Category"));
         FirebaseDatabase.getInstance().getReference().child("Category").addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
+                System.out.println(snapshot);
                 categoryArrayList.clear();
 
                 System.out.println("snapshot.getKey()() => "+snapshot.getKey());
