@@ -1,6 +1,9 @@
 # Siksha - e-libraryMangementProject
 Consist of admin swing application and client android application
-# ScreenShots
+# ScreenShots of admin swing 
+
+
+# ScreenShots of client apk
 ## registeration
 ![alt text](Screenshots/Registeration.png)
 ## home page
