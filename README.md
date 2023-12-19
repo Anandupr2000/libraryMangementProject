@@ -2,7 +2,7 @@
 Consist of admin swing application and client android application
 # ScreenShots
 ## registeration
-![alt text](Screenshots/Registration.png)
+![alt text](Screenshots/Registeration.png)
 ## home page
 ![alt text](Screenshots/homePage.png)
 ![alt text](Screenshots/homePage0.png)
